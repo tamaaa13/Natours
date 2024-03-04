@@ -36,6 +36,7 @@ const connectSrcUrls = [
 ];
 const fontSrcUrls = ['fonts.googleapis.com', 'fonts.gstatic.com'];
 
+// start express app
 const app = express();
 
 app.use(cors());
